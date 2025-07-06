@@ -26,3 +26,15 @@ contents:
     ==: org.bukkit.inventory.ItemStack
     v: 3955
     type: LIME_DYE
+  slot_4:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: STRIPPED_OAK_LOG
+  slot_5:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: OAK_SIGN
+  slot_6:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: GLOW_INK_SAC
