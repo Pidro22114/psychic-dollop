@@ -1,0 +1,19 @@
+{
+  "type": "com.loohp.imageframe.objectholders.URLStaticImageMap",
+  "index": 4,
+  "name": "agua",
+  "url": "https://static.wikia.nocookie.net/avatar/images/7/78/Emblema_da_Dobra_de_%C3%81gua.png/revision/latest/scale-to-width-down/30?cb\u003d20161205041741\u0026path-prefix\u003dpt-br",
+  "width": 1,
+  "height": 1,
+  "ditheringType": "nearest-color",
+  "creator": "cc87c641-6c3b-3200-8ebc-585e92243fc1",
+  "hasAccess": {},
+  "creationTime": 1751640851488,
+  "mapdata": [
+    {
+      "mapid": 34,
+      "image": "0.png",
+      "markers": []
+    }
+  ]
+}

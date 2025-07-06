@@ -1,0 +1,19 @@
+{
+  "type": "com.loohp.imageframe.objectholders.URLStaticImageMap",
+  "index": 6,
+  "name": "Errado",
+  "url": "https://img.freepik.com/vetores-premium/icone-de-cruz-vermelha-simbolo-de-x-branco-em-circulo-vermelho-signo-de-erro-ou-cancelamento_797523-4248.jpg",
+  "width": 1,
+  "height": 1,
+  "ditheringType": "nearest-color",
+  "creator": "cc87c641-6c3b-3200-8ebc-585e92243fc1",
+  "hasAccess": {},
+  "creationTime": 1751641487818,
+  "mapdata": [
+    {
+      "mapid": 36,
+      "image": "0.png",
+      "markers": []
+    }
+  ]
+}
