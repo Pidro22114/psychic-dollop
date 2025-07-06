@@ -22,3 +22,7 @@ contents:
     ==: org.bukkit.inventory.ItemStack
     v: 3955
     type: STONE_AXE
+  slot_9:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3955
+    type: LIME_DYE
