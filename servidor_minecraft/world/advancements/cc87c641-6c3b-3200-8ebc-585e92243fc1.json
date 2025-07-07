@@ -377,5 +377,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-07-07 14:44:58 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
