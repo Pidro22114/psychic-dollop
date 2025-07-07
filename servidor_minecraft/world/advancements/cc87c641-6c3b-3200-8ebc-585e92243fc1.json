@@ -371,5 +371,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-07 00:21:30 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
