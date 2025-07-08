@@ -26,7 +26,3 @@ contents:
     ==: org.bukkit.inventory.ItemStack
     v: 3955
     type: LIME_DYE
-  slot_4:
-    ==: org.bukkit.inventory.ItemStack
-    v: 3955
-    type: SAND
